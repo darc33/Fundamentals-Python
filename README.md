@@ -8,7 +8,8 @@ Repository with some fundamentals examples in Python:
 - Control Flow
 - Functions
 - List
+- List of lists
 - Dictionaries
-
+- Loops
 
 
