@@ -11,5 +11,10 @@ Repository with some fundamentals examples in Python:
 - List of lists
 - Dictionaries
 - Loops
+- List comprehension
+- Anonymous functions (lambdas)
+- Bitwise operations
+- Clases
+- File input and output 
 
 
